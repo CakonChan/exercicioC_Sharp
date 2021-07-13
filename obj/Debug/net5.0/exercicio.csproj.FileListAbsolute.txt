@@ -1,0 +1,16 @@
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\exercicio.csproj.AssemblyReference.cache
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\exercicio.AssemblyInfo.cs
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\bin\Debug\net5.0\exercicio.exe
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\bin\Debug\net5.0\exercicio.deps.json
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\bin\Debug\net5.0\exercicio.runtimeconfig.json
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\bin\Debug\net5.0\exercicio.runtimeconfig.dev.json
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\bin\Debug\net5.0\exercicio.dll
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\bin\Debug\net5.0\ref\exercicio.dll
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\bin\Debug\net5.0\exercicio.pdb
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\exercicio.dll
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\ref\exercicio.dll
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\exercicio.pdb
+C:\Users\Caio\Desktop\treinamento\C#\exercicio\obj\Debug\net5.0\exercicio.genruntimeconfig.cache
