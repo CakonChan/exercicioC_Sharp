@@ -2,7 +2,7 @@ using System;
 
 namespace exercicio
 {
-    class lista_exercicio10
+    class lista_exercicio10_Paulo
     {
         public static void executar(){
 

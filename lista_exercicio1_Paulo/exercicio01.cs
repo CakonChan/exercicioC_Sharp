@@ -3,7 +3,7 @@ using System;
 
 namespace exercicio
 {
-    class lista_exercicio1
+    class lista_exercicio1_Paulo
     {
         public static void executar(){
             Console.WriteLine("Exercicio 01");

@@ -2,7 +2,7 @@ using System;
 
 namespace exercicio
 {
-    class lista_exercicio5
+    class lista_exercicio5_Paulo
     {
         public static void executar(){
             Console.WriteLine("Exercicio 05");

@@ -2,7 +2,7 @@ using System;
 
 namespace exercicio
 {
-    class exercicio01
+    class exercicio01_Rodrigo
     {
         public static void executar()
         {
